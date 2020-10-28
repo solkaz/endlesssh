@@ -1,0 +1,19 @@
+{
+  "name": "endlesssh",
+  "version": "1.0.0",
+  "description": "Implementation of [endlessh](https://nullprogram.com/blog/2019/03/22)",
+  "scripts": {
+    "http": "node src/http.js",
+    "ssh": "node src/ssh.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solkaz/endlesssh.git"
+  },
+  "author": "Jeff Held",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solkaz/endlesssh/issues"
+  },
+  "homepage": "https://github.com/solkaz/endlesssh#readme"
+}
